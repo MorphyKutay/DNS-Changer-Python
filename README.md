@@ -1,7 +1,7 @@
 # DNS-Changer-Python
 `A python CLI app to change the DNS Servers on windows and Linux  more efficiently.`
 
-![alt text](https://github.com/MorphyKutay/DNS-Changer-Python/blob/main/ss.png)
+![alt text](https://github.com/MorphyKutay/DNS-Changer-Python/blob/main/ss1.png)
 
 
 ## Features

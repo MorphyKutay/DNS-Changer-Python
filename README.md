@@ -7,3 +7,4 @@
 ## Features
 
 - Setting DNS server address to Google, CloudFlare, providers
+- Setting DNS server address to custom DNS servers
